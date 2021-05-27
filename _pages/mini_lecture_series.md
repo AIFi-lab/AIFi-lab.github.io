@@ -1,7 +1,7 @@
 ---
 title: "Allan Lab - AOA"
 layout: textlay
-excerpt: "AOA"
+excerpt: "AI Lab -- AI for finance."
 sitemap: false
 permalink: /aoa.html
 ---
