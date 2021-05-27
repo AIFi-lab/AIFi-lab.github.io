@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "AIFi Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "AIFi Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,8 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
-
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=Hp5W5f0AAAAJ), [ResearcherID](https://publons.com/researcher/1169563/dorien-herremans/publications/))
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
