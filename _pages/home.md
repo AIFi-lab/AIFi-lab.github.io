@@ -8,7 +8,8 @@ permalink: /
 
 We are a dynamic research group at [Singapore University of Technology and Design](http://sutd.edu.sg), passionate about leveraging cutting-edge AI technologies in financial markets. 
 
-
+<!--     TODO add photos! -->
+<!-- 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -20,9 +21,8 @@ We are a dynamic research group at [Singapore University of Technology and Desig
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
-
+ -->
     <!-- Items -->
-<!--     TODO add photos! -->
 <!--     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
@@ -60,7 +60,7 @@ We are a dynamic research group at [Singapore University of Technology and Desig
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+Our researchers and students work on a range of projects from portfolio management, to extreme event prediction in cryptocurrency markets (see [Research](research)).
 
 We are located at Singapore University of Technology and Design, a new university co-founded by MIT 10 years ago. 
 
