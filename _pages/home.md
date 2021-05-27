@@ -8,8 +8,7 @@ permalink: /
 
 We are a dynamic research group at [Singapore University of Technology and Design](http://sutd.edu.sg), passionate about leveraging cutting-edge AI technologies in financial markets. 
 
-<!--     TODO add photos! -->
-<!-- 
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -21,9 +20,9 @@ We are a dynamic research group at [Singapore University of Technology and Desig
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
- -->
+
     <!-- Items -->
-<!--     <div class="carousel-inner" markdown="0">
+     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 1" />
@@ -55,7 +54,7 @@ We are a dynamic research group at [Singapore University of Technology and Desig
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div> -->
+</div> 
 
 
 
