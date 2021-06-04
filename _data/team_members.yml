@@ -1,9 +1,9 @@
 - name: Prof. Dorien Herremans
-  photo: sutd_dh.png
+  photo: sutd_dh.jpg
   info: Assistant professor
   email: dorien.herremans@gmail.com
   number_educ: 1
-  education1: Prof. Herremans is a Business Engineer, with a PhD in applied economics (University of Antwerp). Her research has focused on novel applications of AI for audio and music as well as fintech. She currently leads the AMAAI lab as well as the AIFi lab and is director of SUTD Game Lab. Full bio <a href="dorienherremans.com/biography">here.</a>
+  education1: Prof. Herremans is a Business Engineer, with a PhD in applied economics (University of Antwerp). Her research has focused on novel applications of AI for audio and music as well as fintech. She currently leads the AMAAI lab as well as the AIFi lab and is director of SUTD Game Lab. Full bio <a href="https://www.dorienherremans.com/biography">here.</a>
 
 - name: Joel Ong
   photo: sutd_joel.jpg
@@ -39,7 +39,7 @@
 
 
 - name: Keith Goh
-  photo: sutd_keith.jpeg
+  photo: sutd_keith.jpg
   info: Masters Student
   email: 
   number_educ: 2
