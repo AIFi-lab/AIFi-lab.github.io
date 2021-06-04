@@ -12,7 +12,7 @@ Our overarching goal is to explore and understand ...
 
 Here are some themes and techniques that we currently work on:
 
-## AI-based Multimodal Crypto Indicators
+### AI-based Multimodal Crypto Indicators
 With the emergence of new digital assets comes a highly speculative and volatile market. In order to minimize risk for investors and properly design trading strategies, we need to look beyond the traditional analysis methods used by stock traders, and look at metrics such as Hashrate, Crypto Twitter sentiments, whale transactions, and others. We are designing cutting-edge indicators to support crypto strategy makers. 
 
 
@@ -27,6 +27,11 @@ Projects:
 
 **The influence of whale alert data as an indicator** text
 ...
+
+
+### Portfolio management leveraged by AI
+
+text
 
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"} -->
