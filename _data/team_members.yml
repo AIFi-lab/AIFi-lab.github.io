@@ -9,9 +9,10 @@
   photo: sutd_joel.jpg
   info: PhD Student
   email: 
-  number_educ: 2
+  number_educ: 3
   education1: PhD with Singapore University Of Technology & Design
   education2: Bachelor of Information Systems and Design with Singapore University Of Technology & Design
+  education3: Joel’s research interests include Structured Prediction, Unsupervised and Generative Modelling in Deep Learning. Currently, he is working on applying such learning techniques to solve fundamental issues in Asset Management such as Portfolio Construction, Bet Sizing, Explainable AI, and Robust Out-of-Distribution ML. 
 
 
 - name: Yanzhao Zou
@@ -55,4 +56,52 @@
   education2: Real Time Whale Alerts on Crypto Prices
   education3:
   education4:
+
+
+
+- name: Alvin Teo
+  photo: template.PNG
+  info:  PhD Student
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4:
+
+
+
+- name: Ruchi Batra
+  photo: template.PNG
+  info: Intern
+  email:
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4:
+
+
+
+- name: Sumit Singh
+  photo: template.PNG
+  info: Intern
+  email: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+
+
+
+
+
+
+
+
+
+
+
 

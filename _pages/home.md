@@ -48,7 +48,8 @@ We are a dynamic research group at [Singapore University of Technology and Desig
 
 Our researchers and students work on a range of projects from portfolio management, to extreme event prediction in cryptocurrency markets (see [Research](research)).
 
-We are located at Singapore University of Technology and Design, a new university co-founded by MIT 10 years ago. 
+We are located at Singapore University of Technology and Design, a new university co-founded by MIT 10 years ago.
+SUTD was established to advance knowledge and nurture technically-grounded leaders and innovators to serve societal needs, with a focus on Design, through an integrated multi-disciplinary curriculum and multi-disciplinary research. Located in the beautiful, tropical Singapore, a centre for novel FinTech technologies and companies. We are looking for passionate new PhD students, and Master students to join the team (more info) !
 
 Testing
 
@@ -59,5 +60,5 @@ Testing
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/sutd_logo/sutd_logo.png" style="width: 210px">
-
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sutd_logo/sutd_aifi.png" style="width: 210px">
 </figure>

@@ -32,6 +32,7 @@ Projects:
 ### Portfolio management leveraged by AI
 
 text
+testing
 
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"} -->
