@@ -1,22 +1,18 @@
-- name: Dorien Herremans
+- name: Prof. Dorien Herremans
   photo: sutd_dh.png
   info: Assistant professor
   email: dorien.herremans@gmail.com
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  number_educ: 1
+  education1: Prof. Herremans is a Business Engineer, with a PhD in applied economics (University of Antwerp). Her research has focused on novel applications of AI for audio and music as well as fintech. She currently leads the AMAAI lab as well as the AIFi lab and is director of SUTD Game Lab. Full bio <a href="dorienherremans.com/biography">here.</a>
 
-- name: Joel Ng
-  photo: Jacky.jpg
+- name: Joel Ong
+  photo: sutd_joel.jpg
   info: PhD Student
-  email: ge@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: Ph.D. with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+  email: 
+  number_educ: 2
+  education1: PhD with Singapore University Of Technology & Design
+  education2: Bachelor of Information Systems and Design with Singapore University Of Technology & Design
+
 
 - name: Yanzhao Zou
   photo: sutd_yz.jpg
@@ -32,7 +28,6 @@
   email: 
   number_educ: 1
   education1: Bsc of Science in Quantitative Finance with National University Of Singapore
-  education2: 
 
 - name: Kenneth See
   photo: sutd_ken.jpeg
@@ -41,16 +36,23 @@
   number_educ: 2
   education1: Master of Computer and Information Technology, University of Pennsylvania 
   education2: Bachelor of Science in Business Administration, Northeastern University
-  education3:
 
+
+- name: Keith Goh
+  photo: sutd_keith.jpeg
+  info: Masters Student
+  email: 
+  number_educ: 2
+  education1: Masters in Technological Entrepreneurship with Singapore University Of Technology & Design
+  education2: Bachelor of Engineering with Singapore University Of Technology & Design
 
 - name: Low Kah Wee
   photo: sutd_kw.png
   info: Research Assistant, started May 2021
   email: kahwee_low@alumni.sutd.edu.sg
-  number_educ: 1
+  number_educ: 2
   education1: Bachelor of Information Systems and Design with Singapore University Of Technology & Design
-  education2: 
+  education2: Real Time Whale Alerts on Crypto Prices
   education3:
   education4:
 

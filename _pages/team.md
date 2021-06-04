@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "AIFi Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "AIFi Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -13,7 +13,7 @@ permalink: /team/
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [lab visitors](#lab-visitors).
 
-## Staff
+## Team
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -76,7 +76,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-
+<!---
 
 ## Master and Bachelor Students
 {% assign number_printed = 0 %}
@@ -131,6 +131,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
+-->
 
 ## Alumni
 
