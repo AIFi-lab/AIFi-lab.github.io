@@ -9,7 +9,8 @@ permalink: /vacancies
 # Open positions
 
 
-PhD positions
+### PhD positions
+
 Our lab is accepting PhD applications from Singaporean and PRs. If you have a strong background and passion in AI and finance, do send a message to Prof. Dorien Herremans (with subject: PhD AIFi) and/or apply to the [SUTD portal](https://www.sutd.edu.sg/Admissions/Graduate/PhD-Programmes/SUTD-PhD-Programme/Application).
 International students: Singa-SUTD offers fellowships for PhD to foreign students. You can apply on [their portal](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa). 
 
