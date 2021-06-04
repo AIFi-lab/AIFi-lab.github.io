@@ -18,7 +18,7 @@ With the emergence of new digital assets comes a highly speculative and volatile
 
 
 
-<img src="https://images.unsplash.com/photo-1621264437251-59d700cfb327?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1952&q=80" style="width: 30%; float: center; margin: 10px">
+<img src="https://images.unsplash.com/photo-1621264437251-59d700cfb327?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1952&q=80" style="width: 20%; float: center; margin: 10px">{: style="width: 70%; float: center; margin: 10px"} 
 
 Projects: 
 
