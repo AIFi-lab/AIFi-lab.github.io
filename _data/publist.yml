@@ -5,7 +5,7 @@
 
   link:
     path: ({{ site.baseurl }}/downloads/yanzhao_abstract_v2.pdf)
-    display:  An NLP Enhanced Prediction Model for Bitcoin Price Using Twitter222
+    display:  An NLP Enhanced Prediction Model for Bitcoin Price Using Twitter
   highlight: 1
   news2:
 
