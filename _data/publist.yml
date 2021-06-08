@@ -1,6 +1,9 @@
 - title: "An NLP Enhanced Prediction Model for Bitcoin Price Using Twitter"
   image: twitter.PNG
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  description: Bitcoin, with its ever-growing popularity, has also demonstrated unparalleled
+price volatility since its origin. We are interested in studying whether social media
+discussions from the general public on Bitcoin have predictive power for extreme
+future price movements.
   authors: Yanzhao Zou, Dorien Herremans
 
   link:
