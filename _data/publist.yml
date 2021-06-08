@@ -4,7 +4,7 @@
   authors: Yanzhao Zou, Dorien Herremans
 
   link:
-    url: ({{ site.baseurl }}/downloads/yanzhao_abstract_v2.pdf)
+    path: ({{ site.baseurl }}/downloads/yanzhao_abstract_v2.pdf)
     display:  An NLP Enhanced Prediction Model for Bitcoin Price Using Twitter222
   highlight: 1
   news2:
