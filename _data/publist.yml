@@ -1,16 +1,13 @@
 - title: "An NLP Enhanced Prediction Model for Bitcoin Price Using Twitter"
   image: twitter.PNG
-  description: Bitcoin, with its ever-growing popularity, has also demonstrated unparalleled
-price volatility since its origin. We are interested in studying whether social media
-discussions from the general public on Bitcoin have predictive power for extreme
-future price movements.
+  description: Bitcoin, with its ever-growing popularity, has also demonstrated unparalleled price volatility since its origin. We are interested in studying whether social media discussions from the general public on Bitcoin have predictive power for extreme future price movements.
   authors: Yanzhao Zou, Dorien Herremans
 
   link:
     url: /downloads/yanzhao.pdf
     display:  Twitter NLP Model
   highlight: 1
-  news2:
+  
 
 - title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
   image: TiNHigh.png
