@@ -8,41 +8,41 @@
 - name: Joel Ong
   photo: sutd_joel.jpg
   info: PhD Student
-  email: 
+  email:
   number_educ: 3
   education1: PhD with Singapore University Of Technology & Design
   education2: Bachelor of Information Systems and Design with Singapore University Of Technology & Design
-  education3: Joel’s research interests include Structured Prediction, Unsupervised and Generative Modelling in Deep Learning. Currently, he is working on applying such learning techniques to solve fundamental issues in Asset Management such as Portfolio Construction, Bet Sizing, Explainable AI, and Robust Out-of-Distribution ML. 
+  education3: Joel’s research interests include Structured Prediction, Unsupervised and Generative Modelling in Deep Learning. Currently, he is working on applying such learning techniques to solve fundamental issues in Asset Management such as Portfolio Construction, Bet Sizing, Explainable AI, and Robust Out-of-Distribution ML.
 
 
 - name: Yanzhao Zou
   photo: sutd_yz.jpg
   info: PhD Student
-  email: 
+  email:
   number_educ: 2
   education1: PhD with Singapore University Of Technology & Design
   education2: Bsc of Engineering Systems and Design with Singapore University Of Technology & Design
 
-- name: Lim Xuan Hui
-  photo: sutd_yh.jpg
-  info: Research Assistant
-  email: 
-  number_educ: 1
-  education1: Bsc of Science in Quantitative Finance with National University Of Singapore
+# - name: Lim Xuan Hui
+#   photo: sutd_yh.jpg
+#   info: Research Assistant
+#   email:
+#   number_educ: 1
+#   education1: Bsc of Science in Quantitative Finance with National University Of Singapore
 
-- name: Kenneth See
-  photo: sutd_ken.jpeg
-  info: Masters Student
-  email: 
-  number_educ: 2
-  education1: Master of Computer and Information Technology, University of Pennsylvania 
-  education2: Bachelor of Science in Business Administration, Northeastern University
+# - name: Kenneth See
+#   photo: sutd_ken.jpeg
+#   info: Masters Student
+#   email:
+#   number_educ: 2
+#   education1: Master of Computer and Information Technology, University of Pennsylvania
+#   education2: Bachelor of Science in Business Administration, Northeastern University
 
 
 - name: Keith Goh
   photo: sutd_keith.jpg
   info: Masters Student
-  email: 
+  email:
   number_educ: 2
   education1: Masters in Technological Entrepreneurship with Singapore University Of Technology & Design
   education2: Bachelor of Engineering with Singapore University Of Technology & Design
@@ -57,51 +57,40 @@
   education3:
   education4:
 
-
-
-- name: Alvin Teo
-  photo: template.PNG
-  info:  PhD Student
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:
-  education4:
-
-
-
-- name: Ruchi Batra
-  photo: template.PNG
-  info: Intern
-  email:
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:
-  education4:
-
-
-
-- name: Sumit Singh
-  photo: template.PNG
-  info: Intern
-  email: 
-  number_educ: 0
-  education1: 
-  education2:
-  education3:
-  education4:
-
-
-
-
-
-
-
-
-
-
-
-
-
+#
+#
+# - name: Alvin Teo
+#   photo: template.PNG
+#   info:  PhD Student
+#   email:
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:
+#   education4:
+#
+#
+#
+# - name: Ruchi Batra
+#   photo: template.PNG
+#   info: Intern
+#   email:
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:
+#   education4:
+#
+#
+#
+# - name: Sumit Singh
+#   photo: template.PNG
+#   info: Intern
+#   email:
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:
+#   education4:
+#
+#
